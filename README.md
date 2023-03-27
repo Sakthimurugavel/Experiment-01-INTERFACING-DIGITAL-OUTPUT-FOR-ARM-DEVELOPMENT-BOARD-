@@ -152,14 +152,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
-
-
-
-
  ![exp1,1](https://user-images.githubusercontent.com/118707246/227700579-e3faf187-010c-443a-9168-a4cfd01dcebb.jpg)
  
  
- 
+
  
  
  
